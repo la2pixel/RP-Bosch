@@ -1,4 +1,3 @@
-%%capture
 import pandas as pd
 # x-axis has taken maximum scenario length from Scenario 3
 import seaborn as sns
